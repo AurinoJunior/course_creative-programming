@@ -1,0 +1,13 @@
+{
+  "name": "sketch-skew",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "canvas-sketch-cli --open ./main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "^0.7.6",
+    "canvas-sketch-cli": "^1.11.20"
+  }
+}
